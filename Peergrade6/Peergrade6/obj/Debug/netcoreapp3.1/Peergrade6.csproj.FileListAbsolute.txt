@@ -1,0 +1,15 @@
+D:\Visual\Peergrade6\Peergrade6\bin\Debug\netcoreapp3.1\Peergrade6.exe
+D:\Visual\Peergrade6\Peergrade6\bin\Debug\netcoreapp3.1\Peergrade6.deps.json
+D:\Visual\Peergrade6\Peergrade6\bin\Debug\netcoreapp3.1\Peergrade6.runtimeconfig.json
+D:\Visual\Peergrade6\Peergrade6\bin\Debug\netcoreapp3.1\Peergrade6.runtimeconfig.dev.json
+D:\Visual\Peergrade6\Peergrade6\bin\Debug\netcoreapp3.1\Peergrade6.dll
+D:\Visual\Peergrade6\Peergrade6\bin\Debug\netcoreapp3.1\Peergrade6.pdb
+D:\Visual\Peergrade6\Peergrade6\obj\Debug\netcoreapp3.1\Peergrade6.csprojAssemblyReference.cache
+D:\Visual\Peergrade6\Peergrade6\obj\Debug\netcoreapp3.1\Peergrade6.csproj.GenerateResource.cache
+D:\Visual\Peergrade6\Peergrade6\obj\Debug\netcoreapp3.1\Peergrade6.AssemblyInfoInputs.cache
+D:\Visual\Peergrade6\Peergrade6\obj\Debug\netcoreapp3.1\Peergrade6.AssemblyInfo.cs
+D:\Visual\Peergrade6\Peergrade6\obj\Debug\netcoreapp3.1\Peergrade6.csproj.CoreCompileInputs.cache
+D:\Visual\Peergrade6\Peergrade6\obj\Debug\netcoreapp3.1\Peergrade6.dll
+D:\Visual\Peergrade6\Peergrade6\obj\Debug\netcoreapp3.1\Peergrade6.pdb
+D:\Visual\Peergrade6\Peergrade6\obj\Debug\netcoreapp3.1\Peergrade6.genruntimeconfig.cache
+D:\Visual\Peergrade6\Peergrade6\obj\Debug\netcoreapp3.1\Peergrade6.Notepad.resources
